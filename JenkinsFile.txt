@@ -8,7 +8,7 @@ pipeline
 		{
 			steps 
 			{
-				bat 'nuget.exe restore CA2.sln'
+				bat 'nuget.exe restore TicTacToee.sln'
 				bat 'dotnet build TicTacToee.sln'
 			}
 		}
