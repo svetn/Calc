@@ -1,0 +1,24 @@
+pipeline 
+{
+	agent any
+	
+	stages 
+	{	
+		stage('Build') 
+		{
+			steps 
+			{
+				bat 'nuget.exe restore CA2.sln'
+				bat 'dotnet build TicTacToee.sln'
+			}
+		}
+
+		stage('Test') 
+		{
+			steps 
+			{
+				bat 'dotnet test "TicTacToee\\bin\\Debug\\5.0\\TicTacToee.dll"'
+			}
+		}
+	}
+} 
