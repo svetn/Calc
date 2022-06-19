@@ -5,7 +5,12 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToee", "TicTacToee\TicTacToee.csproj", "{9ACD3B5F-1D79-4FA5-9D9B-C2141A56BBFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeeTests", "TicTacToeeTests\TicTacToeeTests.csproj", "{3D56432B-068A-4DB4-9527-266438BFFF48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeeTests", "TicTacToeeTests\TicTacToeeTests.csproj", "{3D56432B-068A-4DB4-9527-266438BFFF48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A26ABA8D-4D81-4C93-9952-4733727C7AF5}"
+	ProjectSection(SolutionItems) = preProject
+		JenkinsFile.txt = JenkinsFile.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
