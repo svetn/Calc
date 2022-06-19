@@ -17,7 +17,7 @@ pipeline
 		{
 			steps 
 			{
-				bat 'dotnet test "C:\\Users\\Svetlyo\\source\\repos\\Tictactoeee2\\TicTacToeeTests\\bin\\Debug\\net5.0\\TicTacToee.dll"'
+				bat 'dotnet test "C:\\Users\\Svetlyo\\source\\repos\\Tictactoeee2\\TicTacToeeTests\\bin\\Debug\\net5.0\\TicTacToeeTests.dll"'
 			}
 		}
 	}
