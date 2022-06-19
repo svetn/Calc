@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Svetlyo\\source\\repos\\TicTacToee\\TicTacToee\\TicTacToee.csproj": {}
+    "C:\\Users\\Svetlyo\\source\\repos\\Tictactoeee2\\TicTacToee\\TicTacToee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Svetlyo\\source\\repos\\TicTacToee\\TicTacToee\\TicTacToee.csproj": {
+    "C:\\Users\\Svetlyo\\source\\repos\\Tictactoeee2\\TicTacToee\\TicTacToee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Svetlyo\\source\\repos\\TicTacToee\\TicTacToee\\TicTacToee.csproj",
+        "projectUniqueName": "C:\\Users\\Svetlyo\\source\\repos\\Tictactoeee2\\TicTacToee\\TicTacToee.csproj",
         "projectName": "TicTacToee",
-        "projectPath": "C:\\Users\\Svetlyo\\source\\repos\\TicTacToee\\TicTacToee\\TicTacToee.csproj",
+        "projectPath": "C:\\Users\\Svetlyo\\source\\repos\\Tictactoeee2\\TicTacToee\\TicTacToee.csproj",
         "packagesPath": "C:\\Users\\Svetlyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Svetlyo\\source\\repos\\TicTacToee\\TicTacToee\\obj\\",
+        "outputPath": "C:\\Users\\Svetlyo\\source\\repos\\Tictactoeee2\\TicTacToee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
