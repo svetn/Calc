@@ -1,9 +1,3 @@
 asdasddasdasdadas
 
 asdasddasdasdadasasd
-
-
-asdasddasdasdadasd
-ad
-
-asdasddasdasdadas
